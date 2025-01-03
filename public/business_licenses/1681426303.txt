@@ -1,0 +1,16 @@
+===== history_not_told ======
+https://project.conceptionmasters.com/history_not_told_dev/
+
+===== ZM_Business ======
+https://project.designprosuk.com/ZM_Business_Solutions_Dev/admin
+
+==FTP===
+FTP Username: zm_business_solutions_dev@designprosmy.com
+FTP Password:z*L9jG?MqyJV
+FTP server: 72.167.77.161
+FTP & explicit FTPS port:  21
+
+===== guard_hire_dev ======
+
+https://project.designprosusa.com/guard_hire_dev/
+https://project.designprosusa.com/guard_hire_dev/admin

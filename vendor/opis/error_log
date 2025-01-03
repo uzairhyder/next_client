@@ -1,0 +1,10 @@
+[11-Nov-2024 01:01:58 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/uswekqif.php:166
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/uswekqif.php(166): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/uswekqif.php on line 166
+[11-Nov-2024 01:03:39 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/themes.php:160
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/themes.php(160): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/opis/themes.php on line 160

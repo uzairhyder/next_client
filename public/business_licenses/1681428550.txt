@@ -1,0 +1,13 @@
+
+===CHAT GPT DEVELOPER DAHBOARD====
+https://platform.openai.com/docs/quickstart/build-your-application
+
+
+OPENAI_API_KEY=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
+
+https://github.com/openai-php/client
+
+https://laravel-news.com/openai-for-laravel
+
+https://techvblogs.com/blog/how-to-use-openai-laravel
+Use composer self-update --rollback to return to version 2.5.3

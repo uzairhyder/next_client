@@ -1,0 +1,35 @@
+[20-Nov-2024 21:06:42 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:43 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:44 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:45 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:45 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:46 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
+[20-Nov-2024 21:06:46 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php:165
+Stack trace:
+#0 /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php(165): implode()
+#1 {main}
+  thrown in /home/tuo1yqxe1xkd/public_html/live_project/project.conceptionmasters.com/next_client_dev/v2/vendor/doctrine/lexer/lib/9af5d91c.php on line 165
